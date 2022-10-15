@@ -105,9 +105,9 @@ update_conf()
 
 ############### MAIN ###################
 
-USER="simplex"
-GROUP="simplex"
-passw="Password1"
+USER="apollo"
+GROUP="groupx"
+passw="passwordx"
 
 if [ -f /etc/os-release ];then
    osname=`grep ID /etc/os-release | egrep -v 'VERSION|LIKE|VARIANT' | cut -d'=' -f2 | sed -e 's/"//' -e 's/"//'`

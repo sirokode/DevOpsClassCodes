@@ -49,7 +49,5 @@ public class UnitDTO {
         public UnitDTO() { 
         }
         
-        publik void meme(){
-                
-        }
+      
 }

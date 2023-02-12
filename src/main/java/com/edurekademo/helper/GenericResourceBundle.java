@@ -19,5 +19,9 @@ public class GenericResourceBundle {
 		return value;
 	}
 	
+	piublik void meme(){
+		
+	}
+	
 }
 
